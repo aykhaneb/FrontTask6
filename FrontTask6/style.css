@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav a {
+    text-decoration: none;
+    margin-left: 25px;
+    color: black;
+    font-size: 17px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    text-align: center;
+    padding: 2rem 0;
+    position: fixed;
+    margin-left: 15%;
+
+
+}
+.text h1{
+    font-weight: bold;
+}
+.all {
+    width: 100%;
+}
+
+.contain {
+    background-image: url(https://www.simbrella.com/site/assets/files/1040/cover.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 18rem 0;
+    width: 100%;
+    /* color: #fff; */
+
+}
+
+.contain h1 {
+    font-size: 50px;
+    margin-left: 15%;
+    width: 70%;
+}
+
+.contain p {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 15%;
+    width: 70%;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+   margin: 50px 0;
+}
+
+.head h1 {
+    color: #2D3192;
+}
+
+.wwdo {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.more {}
+
+.more a {
+    border: 3px solid #dfe4eb;
+    border-radius: 12px;
+    color: #222;
+    text-decoration: none;
+    padding: 15px 40px;
+}
+
+i {
+    color: yellow;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+   margin-bottom: 50px;
+   
+}
+
+.box svg {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.box {
+    width: 30%;
+    text-align: center;
+    border: 1px solid #dfe4eb;
+    /* margin: 0 5px; */
+    border-radius: 6px;
+}
+.box h1{
+    margin: 30px 0;
+    font-size: 26px;
+    font-weight: bold;
+}
+.box p{
+    margin-bottom: 50px;
+    font-size: 22px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.allContent{
+    
+}
